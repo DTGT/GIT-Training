@@ -5,7 +5,6 @@ It contains exercises, notes, and example projects to help me build confidence w
 
 #🚀 Goals
 Practice Git basics (init, add, commit, status, log).
-
 Learn branching, merging, and resolving conflicts.
 
 Explore working with remotes (push, pull, clone).
